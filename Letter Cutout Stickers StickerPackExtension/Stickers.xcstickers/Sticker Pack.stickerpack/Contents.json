@@ -1,9 +1,1151 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
-    "grid-size" : "regular"
-  }
+    "grid-size" : "small"
+  },
+  "stickers" : [
+    {
+      "filename" : "A-1.sticker"
+    },
+    {
+      "filename" : "A-2.sticker"
+    },
+    {
+      "filename" : "A-3.sticker"
+    },
+    {
+      "filename" : "A-4.sticker"
+    },
+    {
+      "filename" : "A-5.sticker"
+    },
+    {
+      "filename" : "A-6.sticker"
+    },
+    {
+      "filename" : "A-7.sticker"
+    },
+    {
+      "filename" : "A-8.sticker"
+    },
+    {
+      "filename" : "A-9.sticker"
+    },
+    {
+      "filename" : "A-10.sticker"
+    },
+    {
+      "filename" : "A-11.sticker"
+    },
+    {
+      "filename" : "A-12.sticker"
+    },
+    {
+      "filename" : "B-1.sticker"
+    },
+    {
+      "filename" : "B-2.sticker"
+    },
+    {
+      "filename" : "B-3.sticker"
+    },
+    {
+      "filename" : "B-4.sticker"
+    },
+    {
+      "filename" : "B-5.sticker"
+    },
+    {
+      "filename" : "B-6.sticker"
+    },
+    {
+      "filename" : "B-7.sticker"
+    },
+    {
+      "filename" : "B-8.sticker"
+    },
+    {
+      "filename" : "B-9.sticker"
+    },
+    {
+      "filename" : "B-10.sticker"
+    },
+    {
+      "filename" : "B-11.sticker"
+    },
+    {
+      "filename" : "B-12.sticker"
+    },
+    {
+      "filename" : "C-1.sticker"
+    },
+    {
+      "filename" : "C-2.sticker"
+    },
+    {
+      "filename" : "C-3.sticker"
+    },
+    {
+      "filename" : "C-4.sticker"
+    },
+    {
+      "filename" : "C-5.sticker"
+    },
+    {
+      "filename" : "C-6.sticker"
+    },
+    {
+      "filename" : "C-7.sticker"
+    },
+    {
+      "filename" : "C-8.sticker"
+    },
+    {
+      "filename" : "C-9.sticker"
+    },
+    {
+      "filename" : "C-10.sticker"
+    },
+    {
+      "filename" : "C-11.sticker"
+    },
+    {
+      "filename" : "C-12.sticker"
+    },
+    {
+      "filename" : "D-1.sticker"
+    },
+    {
+      "filename" : "D-2.sticker"
+    },
+    {
+      "filename" : "D-3.sticker"
+    },
+    {
+      "filename" : "D-4.sticker"
+    },
+    {
+      "filename" : "D-5.sticker"
+    },
+    {
+      "filename" : "D-6.sticker"
+    },
+    {
+      "filename" : "D-7.sticker"
+    },
+    {
+      "filename" : "D-8.sticker"
+    },
+    {
+      "filename" : "D-9.sticker"
+    },
+    {
+      "filename" : "D-10.sticker"
+    },
+    {
+      "filename" : "D-11.sticker"
+    },
+    {
+      "filename" : "D-12.sticker"
+    },
+    {
+      "filename" : "E-1 2.sticker"
+    },
+    {
+      "filename" : "E-1.sticker"
+    },
+    {
+      "filename" : "E-2.sticker"
+    },
+    {
+      "filename" : "E-3.sticker"
+    },
+    {
+      "filename" : "E-4.sticker"
+    },
+    {
+      "filename" : "E-5.sticker"
+    },
+    {
+      "filename" : "E-6.sticker"
+    },
+    {
+      "filename" : "E-7.sticker"
+    },
+    {
+      "filename" : "E-8.sticker"
+    },
+    {
+      "filename" : "E-9.sticker"
+    },
+    {
+      "filename" : "E-10.sticker"
+    },
+    {
+      "filename" : "E-11.sticker"
+    },
+    {
+      "filename" : "E-12.sticker"
+    },
+    {
+      "filename" : "F-2.sticker"
+    },
+    {
+      "filename" : "F-3.sticker"
+    },
+    {
+      "filename" : "F-4.sticker"
+    },
+    {
+      "filename" : "F-5.sticker"
+    },
+    {
+      "filename" : "F-6.sticker"
+    },
+    {
+      "filename" : "F-7.sticker"
+    },
+    {
+      "filename" : "F-8.sticker"
+    },
+    {
+      "filename" : "F-9.sticker"
+    },
+    {
+      "filename" : "F-10.sticker"
+    },
+    {
+      "filename" : "F-11.sticker"
+    },
+    {
+      "filename" : "F-12.sticker"
+    },
+    {
+      "filename" : "F-13.sticker"
+    },
+    {
+      "filename" : "G-1.sticker"
+    },
+    {
+      "filename" : "G-2.sticker"
+    },
+    {
+      "filename" : "G-3.sticker"
+    },
+    {
+      "filename" : "G-4.sticker"
+    },
+    {
+      "filename" : "G-5.sticker"
+    },
+    {
+      "filename" : "G-6.sticker"
+    },
+    {
+      "filename" : "G-7.sticker"
+    },
+    {
+      "filename" : "G-8.sticker"
+    },
+    {
+      "filename" : "G-9.sticker"
+    },
+    {
+      "filename" : "G-10.sticker"
+    },
+    {
+      "filename" : "G-11.sticker"
+    },
+    {
+      "filename" : "H-1.sticker"
+    },
+    {
+      "filename" : "H-2.sticker"
+    },
+    {
+      "filename" : "H-3.sticker"
+    },
+    {
+      "filename" : "H-4.sticker"
+    },
+    {
+      "filename" : "H-5.sticker"
+    },
+    {
+      "filename" : "H-6.sticker"
+    },
+    {
+      "filename" : "H-7.sticker"
+    },
+    {
+      "filename" : "H-8.sticker"
+    },
+    {
+      "filename" : "H-9.sticker"
+    },
+    {
+      "filename" : "H-10.sticker"
+    },
+    {
+      "filename" : "H-11.sticker"
+    },
+    {
+      "filename" : "H-12.sticker"
+    },
+    {
+      "filename" : "I-1.sticker"
+    },
+    {
+      "filename" : "I-2.sticker"
+    },
+    {
+      "filename" : "I-3.sticker"
+    },
+    {
+      "filename" : "I-4.sticker"
+    },
+    {
+      "filename" : "I-5.sticker"
+    },
+    {
+      "filename" : "I-6.sticker"
+    },
+    {
+      "filename" : "I-7.sticker"
+    },
+    {
+      "filename" : "I-8.sticker"
+    },
+    {
+      "filename" : "I-9.sticker"
+    },
+    {
+      "filename" : "I-10.sticker"
+    },
+    {
+      "filename" : "J-1.sticker"
+    },
+    {
+      "filename" : "J-2.sticker"
+    },
+    {
+      "filename" : "J-3.sticker"
+    },
+    {
+      "filename" : "J-4.sticker"
+    },
+    {
+      "filename" : "J-5.sticker"
+    },
+    {
+      "filename" : "J-6.sticker"
+    },
+    {
+      "filename" : "J-7.sticker"
+    },
+    {
+      "filename" : "J-8.sticker"
+    },
+    {
+      "filename" : "J-9.sticker"
+    },
+    {
+      "filename" : "J-10.sticker"
+    },
+    {
+      "filename" : "J-11.sticker"
+    },
+    {
+      "filename" : "J-12.sticker"
+    },
+    {
+      "filename" : "K-1.sticker"
+    },
+    {
+      "filename" : "K-2.sticker"
+    },
+    {
+      "filename" : "K-3.sticker"
+    },
+    {
+      "filename" : "K-4.sticker"
+    },
+    {
+      "filename" : "K-5.sticker"
+    },
+    {
+      "filename" : "K-6.sticker"
+    },
+    {
+      "filename" : "K-7.sticker"
+    },
+    {
+      "filename" : "K-8.sticker"
+    },
+    {
+      "filename" : "K-9.sticker"
+    },
+    {
+      "filename" : "K-10.sticker"
+    },
+    {
+      "filename" : "K-11.sticker"
+    },
+    {
+      "filename" : "K-12.sticker"
+    },
+    {
+      "filename" : "L-1.sticker"
+    },
+    {
+      "filename" : "L-2.sticker"
+    },
+    {
+      "filename" : "L-3.sticker"
+    },
+    {
+      "filename" : "L-4.sticker"
+    },
+    {
+      "filename" : "L-5.sticker"
+    },
+    {
+      "filename" : "L-6.sticker"
+    },
+    {
+      "filename" : "L-7.sticker"
+    },
+    {
+      "filename" : "L-8.sticker"
+    },
+    {
+      "filename" : "L-9.sticker"
+    },
+    {
+      "filename" : "L-10.sticker"
+    },
+    {
+      "filename" : "L-11.sticker"
+    },
+    {
+      "filename" : "L-12.sticker"
+    },
+    {
+      "filename" : "M-1.sticker"
+    },
+    {
+      "filename" : "M-2.sticker"
+    },
+    {
+      "filename" : "M-3.sticker"
+    },
+    {
+      "filename" : "M-4.sticker"
+    },
+    {
+      "filename" : "M-5.sticker"
+    },
+    {
+      "filename" : "M-6.sticker"
+    },
+    {
+      "filename" : "M-7.sticker"
+    },
+    {
+      "filename" : "M-8.sticker"
+    },
+    {
+      "filename" : "M-9.sticker"
+    },
+    {
+      "filename" : "M-10.sticker"
+    },
+    {
+      "filename" : "M-11.sticker"
+    },
+    {
+      "filename" : "M-12.sticker"
+    },
+    {
+      "filename" : "N-1.sticker"
+    },
+    {
+      "filename" : "N-2.sticker"
+    },
+    {
+      "filename" : "N-3.sticker"
+    },
+    {
+      "filename" : "N-4.sticker"
+    },
+    {
+      "filename" : "N-5.sticker"
+    },
+    {
+      "filename" : "N-6.sticker"
+    },
+    {
+      "filename" : "N-7.sticker"
+    },
+    {
+      "filename" : "N-8.sticker"
+    },
+    {
+      "filename" : "N-9.sticker"
+    },
+    {
+      "filename" : "N-10.sticker"
+    },
+    {
+      "filename" : "N-11.sticker"
+    },
+    {
+      "filename" : "N-12.sticker"
+    },
+    {
+      "filename" : "O-1.sticker"
+    },
+    {
+      "filename" : "O-2.sticker"
+    },
+    {
+      "filename" : "O-3.sticker"
+    },
+    {
+      "filename" : "O-4.sticker"
+    },
+    {
+      "filename" : "O-5.sticker"
+    },
+    {
+      "filename" : "O-6.sticker"
+    },
+    {
+      "filename" : "O-7.sticker"
+    },
+    {
+      "filename" : "O-8.sticker"
+    },
+    {
+      "filename" : "O-9.sticker"
+    },
+    {
+      "filename" : "O-10.sticker"
+    },
+    {
+      "filename" : "O-11.sticker"
+    },
+    {
+      "filename" : "O-12.sticker"
+    },
+    {
+      "filename" : "P-1.sticker"
+    },
+    {
+      "filename" : "P-2.sticker"
+    },
+    {
+      "filename" : "P-3.sticker"
+    },
+    {
+      "filename" : "P-4.sticker"
+    },
+    {
+      "filename" : "P-5.sticker"
+    },
+    {
+      "filename" : "P-6.sticker"
+    },
+    {
+      "filename" : "P-7.sticker"
+    },
+    {
+      "filename" : "P-8.sticker"
+    },
+    {
+      "filename" : "P-9.sticker"
+    },
+    {
+      "filename" : "P-10.sticker"
+    },
+    {
+      "filename" : "P-11.sticker"
+    },
+    {
+      "filename" : "P-12.sticker"
+    },
+    {
+      "filename" : "Q-1.sticker"
+    },
+    {
+      "filename" : "Q-2.sticker"
+    },
+    {
+      "filename" : "Q-3.sticker"
+    },
+    {
+      "filename" : "Q-4.sticker"
+    },
+    {
+      "filename" : "Q-5.sticker"
+    },
+    {
+      "filename" : "Q-6.sticker"
+    },
+    {
+      "filename" : "Q-7.sticker"
+    },
+    {
+      "filename" : "Q-8.sticker"
+    },
+    {
+      "filename" : "Q-9.sticker"
+    },
+    {
+      "filename" : "Q-10.sticker"
+    },
+    {
+      "filename" : "Q-11.sticker"
+    },
+    {
+      "filename" : "Q-12.sticker"
+    },
+    {
+      "filename" : "R-1.sticker"
+    },
+    {
+      "filename" : "R-2.sticker"
+    },
+    {
+      "filename" : "R-3.sticker"
+    },
+    {
+      "filename" : "R-4.sticker"
+    },
+    {
+      "filename" : "R-5.sticker"
+    },
+    {
+      "filename" : "R-6.sticker"
+    },
+    {
+      "filename" : "R-7.sticker"
+    },
+    {
+      "filename" : "R-8.sticker"
+    },
+    {
+      "filename" : "R-9.sticker"
+    },
+    {
+      "filename" : "R-10.sticker"
+    },
+    {
+      "filename" : "R-11.sticker"
+    },
+    {
+      "filename" : "R-12.sticker"
+    },
+    {
+      "filename" : "S-1.sticker"
+    },
+    {
+      "filename" : "S-2.sticker"
+    },
+    {
+      "filename" : "S-3.sticker"
+    },
+    {
+      "filename" : "S-4.sticker"
+    },
+    {
+      "filename" : "S-5.sticker"
+    },
+    {
+      "filename" : "S-6.sticker"
+    },
+    {
+      "filename" : "S-7.sticker"
+    },
+    {
+      "filename" : "S-8.sticker"
+    },
+    {
+      "filename" : "S-9.sticker"
+    },
+    {
+      "filename" : "S-10.sticker"
+    },
+    {
+      "filename" : "S-11.sticker"
+    },
+    {
+      "filename" : "S-12.sticker"
+    },
+    {
+      "filename" : "T-1.sticker"
+    },
+    {
+      "filename" : "T-2.sticker"
+    },
+    {
+      "filename" : "T-3.sticker"
+    },
+    {
+      "filename" : "T-4.sticker"
+    },
+    {
+      "filename" : "T-5.sticker"
+    },
+    {
+      "filename" : "T-6.sticker"
+    },
+    {
+      "filename" : "T-7.sticker"
+    },
+    {
+      "filename" : "T-8.sticker"
+    },
+    {
+      "filename" : "T-9.sticker"
+    },
+    {
+      "filename" : "T-10.sticker"
+    },
+    {
+      "filename" : "T-11.sticker"
+    },
+    {
+      "filename" : "T-12.sticker"
+    },
+    {
+      "filename" : "U-1.sticker"
+    },
+    {
+      "filename" : "U-2.sticker"
+    },
+    {
+      "filename" : "U-3.sticker"
+    },
+    {
+      "filename" : "U-4.sticker"
+    },
+    {
+      "filename" : "U-5.sticker"
+    },
+    {
+      "filename" : "U-6.sticker"
+    },
+    {
+      "filename" : "U-7.sticker"
+    },
+    {
+      "filename" : "U-8.sticker"
+    },
+    {
+      "filename" : "U-9.sticker"
+    },
+    {
+      "filename" : "U-10.sticker"
+    },
+    {
+      "filename" : "U-11.sticker"
+    },
+    {
+      "filename" : "U-12.sticker"
+    },
+    {
+      "filename" : "V-1.sticker"
+    },
+    {
+      "filename" : "V-2.sticker"
+    },
+    {
+      "filename" : "V-3.sticker"
+    },
+    {
+      "filename" : "V-4.sticker"
+    },
+    {
+      "filename" : "V-5.sticker"
+    },
+    {
+      "filename" : "V-6.sticker"
+    },
+    {
+      "filename" : "V-7.sticker"
+    },
+    {
+      "filename" : "V-8.sticker"
+    },
+    {
+      "filename" : "V-9.sticker"
+    },
+    {
+      "filename" : "V-10.sticker"
+    },
+    {
+      "filename" : "V-11.sticker"
+    },
+    {
+      "filename" : "V-12.sticker"
+    },
+    {
+      "filename" : "W-1.sticker"
+    },
+    {
+      "filename" : "W-2.sticker"
+    },
+    {
+      "filename" : "W-3.sticker"
+    },
+    {
+      "filename" : "W-4.sticker"
+    },
+    {
+      "filename" : "W-5.sticker"
+    },
+    {
+      "filename" : "W-6.sticker"
+    },
+    {
+      "filename" : "W-7.sticker"
+    },
+    {
+      "filename" : "W-8.sticker"
+    },
+    {
+      "filename" : "W-9.sticker"
+    },
+    {
+      "filename" : "W-10.sticker"
+    },
+    {
+      "filename" : "W-11.sticker"
+    },
+    {
+      "filename" : "W-12.sticker"
+    },
+    {
+      "filename" : "X-1.sticker"
+    },
+    {
+      "filename" : "X-2.sticker"
+    },
+    {
+      "filename" : "X-3.sticker"
+    },
+    {
+      "filename" : "X-4.sticker"
+    },
+    {
+      "filename" : "X-5.sticker"
+    },
+    {
+      "filename" : "X-6.sticker"
+    },
+    {
+      "filename" : "X-7.sticker"
+    },
+    {
+      "filename" : "X-8.sticker"
+    },
+    {
+      "filename" : "X-9.sticker"
+    },
+    {
+      "filename" : "X-10.sticker"
+    },
+    {
+      "filename" : "X-11.sticker"
+    },
+    {
+      "filename" : "X-12.sticker"
+    },
+    {
+      "filename" : "X-13.sticker"
+    },
+    {
+      "filename" : "Y-1.sticker"
+    },
+    {
+      "filename" : "Y-2.sticker"
+    },
+    {
+      "filename" : "Y-3.sticker"
+    },
+    {
+      "filename" : "Y-4.sticker"
+    },
+    {
+      "filename" : "Y-5.sticker"
+    },
+    {
+      "filename" : "Y-6.sticker"
+    },
+    {
+      "filename" : "Y-7.sticker"
+    },
+    {
+      "filename" : "Y-8.sticker"
+    },
+    {
+      "filename" : "Y-9.sticker"
+    },
+    {
+      "filename" : "Y-10.sticker"
+    },
+    {
+      "filename" : "Y-11.sticker"
+    },
+    {
+      "filename" : "Z-1.sticker"
+    },
+    {
+      "filename" : "Z-2.sticker"
+    },
+    {
+      "filename" : "Z-3.sticker"
+    },
+    {
+      "filename" : "Z-4.sticker"
+    },
+    {
+      "filename" : "Z-5.sticker"
+    },
+    {
+      "filename" : "Z-6.sticker"
+    },
+    {
+      "filename" : "Z-7.sticker"
+    },
+    {
+      "filename" : "Z-8.sticker"
+    },
+    {
+      "filename" : "Z-9.sticker"
+    },
+    {
+      "filename" : "Z-10.sticker"
+    },
+    {
+      "filename" : "Z-11.sticker"
+    },
+    {
+      "filename" : "Z-12.sticker"
+    },
+    {
+      "filename" : "0-1.sticker"
+    },
+    {
+      "filename" : "0-2.sticker"
+    },
+    {
+      "filename" : "0-3.sticker"
+    },
+    {
+      "filename" : "0-4.sticker"
+    },
+    {
+      "filename" : "0-5.sticker"
+    },
+    {
+      "filename" : "0-6.sticker"
+    },
+    {
+      "filename" : "0-7.sticker"
+    },
+    {
+      "filename" : "1-1.sticker"
+    },
+    {
+      "filename" : "1-2.sticker"
+    },
+    {
+      "filename" : "1-3.sticker"
+    },
+    {
+      "filename" : "1-4.sticker"
+    },
+    {
+      "filename" : "1-5.sticker"
+    },
+    {
+      "filename" : "1-6.sticker"
+    },
+    {
+      "filename" : "1-7.sticker"
+    },
+    {
+      "filename" : "2-1.sticker"
+    },
+    {
+      "filename" : "2-2.sticker"
+    },
+    {
+      "filename" : "2-3.sticker"
+    },
+    {
+      "filename" : "2-4.sticker"
+    },
+    {
+      "filename" : "2-5.sticker"
+    },
+    {
+      "filename" : "2-6.sticker"
+    },
+    {
+      "filename" : "2-7.sticker"
+    },
+    {
+      "filename" : "3-1.sticker"
+    },
+    {
+      "filename" : "3-2.sticker"
+    },
+    {
+      "filename" : "3-3.sticker"
+    },
+    {
+      "filename" : "3-4.sticker"
+    },
+    {
+      "filename" : "3-5.sticker"
+    },
+    {
+      "filename" : "3-6.sticker"
+    },
+    {
+      "filename" : "3-7.sticker"
+    },
+    {
+      "filename" : "4-1.sticker"
+    },
+    {
+      "filename" : "4-2.sticker"
+    },
+    {
+      "filename" : "4-3.sticker"
+    },
+    {
+      "filename" : "4-4.sticker"
+    },
+    {
+      "filename" : "4-5.sticker"
+    },
+    {
+      "filename" : "4-6.sticker"
+    },
+    {
+      "filename" : "4-7.sticker"
+    },
+    {
+      "filename" : "5-1.sticker"
+    },
+    {
+      "filename" : "5-2.sticker"
+    },
+    {
+      "filename" : "5-3.sticker"
+    },
+    {
+      "filename" : "5-4.sticker"
+    },
+    {
+      "filename" : "5-5.sticker"
+    },
+    {
+      "filename" : "5-6.sticker"
+    },
+    {
+      "filename" : "5-7.sticker"
+    },
+    {
+      "filename" : "6-1.sticker"
+    },
+    {
+      "filename" : "6-2.sticker"
+    },
+    {
+      "filename" : "6-3.sticker"
+    },
+    {
+      "filename" : "6-4.sticker"
+    },
+    {
+      "filename" : "6-5.sticker"
+    },
+    {
+      "filename" : "6-6.sticker"
+    },
+    {
+      "filename" : "6-7.sticker"
+    },
+    {
+      "filename" : "7-1.sticker"
+    },
+    {
+      "filename" : "7-2.sticker"
+    },
+    {
+      "filename" : "7-3.sticker"
+    },
+    {
+      "filename" : "7-4.sticker"
+    },
+    {
+      "filename" : "7-5.sticker"
+    },
+    {
+      "filename" : "7-6.sticker"
+    },
+    {
+      "filename" : "7-7.sticker"
+    },
+    {
+      "filename" : "8-1.sticker"
+    },
+    {
+      "filename" : "8-2.sticker"
+    },
+    {
+      "filename" : "8-3.sticker"
+    },
+    {
+      "filename" : "8-4.sticker"
+    },
+    {
+      "filename" : "8-5.sticker"
+    },
+    {
+      "filename" : "8-6.sticker"
+    },
+    {
+      "filename" : "8-7.sticker"
+    },
+    {
+      "filename" : "9-1.sticker"
+    },
+    {
+      "filename" : "9-2.sticker"
+    },
+    {
+      "filename" : "9-3.sticker"
+    },
+    {
+      "filename" : "9-4.sticker"
+    },
+    {
+      "filename" : "9-5.sticker"
+    },
+    {
+      "filename" : "9-6.sticker"
+    },
+    {
+      "filename" : "9-7.sticker"
+    }
+  ]
 }
